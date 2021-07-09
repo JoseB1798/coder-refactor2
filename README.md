@@ -1,1 +1,1 @@
-# coder-refactor2
+this assigment required to be refactored. The code has been reworked to make it more efficient and organized to make the structure of the HTML more semantic.
